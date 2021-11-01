@@ -1,0 +1,7 @@
+{
+    "queryStringParameters":{
+        "transactionId": "5",
+        "type": "purchase",
+        "amount": "100"
+    }
+}
